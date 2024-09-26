@@ -1,0 +1,25 @@
+@import url('https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css');
+
+#cabecalho{
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: "Plus Jakarta Sans";
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    height: 90px;
+}
+
+#conteudo1{
+    padding-left: 90px;
+    padding-right: 90px;
+    color: #14183E;
+    font-family: "Plus Jakarta Sans";
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 200px;
+}
